@@ -8,7 +8,9 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hello_Demo");
+		System.out.println("Hello_Demo1");
+		System.out.println("Hello_Demo2");
+		System.out.println("Hello_Demo3");
 	}
 
 }
