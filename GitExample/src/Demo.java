@@ -18,6 +18,8 @@ public class Demo {
 		
 		
 		Demo d = new Demo();
+		d.git1();
+		d.git2();
 	}
 
 }
