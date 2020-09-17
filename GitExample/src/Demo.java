@@ -15,6 +15,9 @@ public class Demo {
 		System.out.println("Hello_Demo1");
 		System.out.println("Hello_Demo2");
 		System.out.println("Hello_Demo3");
+		
+		
+		Demo d = new Demo();
 	}
 
 }
